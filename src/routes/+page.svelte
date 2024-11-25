@@ -21,7 +21,7 @@
 		to your new<br />SvelteKit app
 	</h1>
 
-	<enhanced:img src="$lib/images/svelte-welcome.png" alt="Welcome">
+	<enhanced:img src="$lib/images/svelte-welcome.png" alt="Welcome" />
 
 	<h2>
 		try editing <strong>src/routes/+page.svelte</strong>
